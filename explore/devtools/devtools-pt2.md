@@ -1,0 +1,2 @@
+1. The issue occurs because JavaScript automatically concatenates strings and numbers when the + operator is used. If one of the input arguments is a string, the other number will be coerced into a string, and the two strings will be concatenated.
+2. To fix this issue, we can use parseInt() to ensure that both input arguments are treated as numbers before adding them
