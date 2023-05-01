@@ -14,7 +14,22 @@
     C: student.greeting();
     D: student['Favorite Teacher'].name;
     E: student.courseLoad[0]'
-13. 
+13. A: '32'
+    B: 1
+    C: 3
+    D: 3null
+    E: 4
+    F: 0
+    G: '3undefined'
+    H: NaN
+14. A: true
+    B: false
+    C: true
+    D: false
+    E: false
+    F: true
+15. === operator does not perform type coercion, which means that if the operands are of different types, the comparison will return false. == operator performs type coercion, which means it converts one of the operands to the same type as the other before making the comparison.
+16. 
 
 
 
