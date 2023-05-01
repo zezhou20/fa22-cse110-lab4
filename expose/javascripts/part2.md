@@ -30,5 +30,5 @@
     F: true
 15. === operator does not perform type coercion, which means that if the operands are of different types, the comparison will return false. == operator performs type coercion, which means it converts one of the operands to the same type as the other before making the comparison.
 
-
-
+17. The result will be the array [2,4,6]. newArr is created when modify Array is called and it iterates each elemetn in the input array using for loop. call back is called with current element as argument for each element in the input array. input number is multiplied by 2 insed doSomething function and the result is returned and pushed to newArr, after all input array is processed the newArr is returned with value [2,4,6].
+18. 
