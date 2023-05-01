@@ -29,7 +29,6 @@
     E: false
     F: true
 15. === operator does not perform type coercion, which means that if the operands are of different types, the comparison will return false. == operator performs type coercion, which means it converts one of the operands to the same type as the other before making the comparison.
-16. 
 
 
 
